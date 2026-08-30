@@ -1,6 +1,6 @@
 # C Programming Repository
 
-Welcome to my personal archive of C programming codes. This repository contains various foundational programs, practice exercises, and projects structured exactly as seen in my local workspace (referenced in Screenshot 2026-08-30 at 9.44.49 PM.png).
+Welcome to my personal archive of C programming codes. This repository contains various foundational programs, practice exercises, and projects structured exactly as seen in my local workspace.
 
 ## 📂 Repository Structure
 * **Fundamentals & Logic:** Conditionals (`If_Else.c`), iterations (`Loops`), modular code (`Functions&Pointers`), and `Pattern_Printing`.
