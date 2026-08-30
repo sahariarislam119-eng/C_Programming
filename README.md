@@ -1,12 +1,13 @@
 # C Programming Repository
 
-Welcome to my personal archive of C programming codes. This repository contains various foundational programs and assignments structured by topic.
+Welcome to my personal archive of C programming codes. This repository contains various foundational programs, practice exercises, and projects structured exactly as seen in my local workspace (referenced in Screenshot 2026-08-30 at 9.44.49 PM.png).
 
-## 📂 Topics Covered
-* **Basic Syntax:** Conditionals (`if-else`), loops, and functions.
-* **Data Structures:** Arrays, Strings, and custom Structures.
-* **Algorithms:** Sorting methodologies and recursion challenges.
-* **Organization:** Multi-file modular project structures.
+## 📂 Repository Structure
+* **Fundamentals & Logic:** Conditionals (`If_Else.c`), iterations (`Loops`), modular code (`Functions&Pointers`), and `Pattern_Printing`.
+* **Data Structures:** Implementations and exercises covering `ARRAY`, `Strings`, and `Structure`.
+* **Algorithms:** Deep dives into `Sorting Algorithms` and `Recursion` challenges.
+* **Review & Application:** Dedicated folders for `#C_Revision`, general `Practice`, and final notes in `C_Last_Lecture`.
+* **Projects:** Consolidated, larger-scale multi-file programs located in the `_Project` directory.
 
 ## 💻 Environment
 * **OS:** macOS (MacBook Air M1)
