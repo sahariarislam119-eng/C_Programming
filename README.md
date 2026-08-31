@@ -7,7 +7,8 @@ Welcome to my personal archive of C programming codes. This repository contains 
 * **Data Structures:** Implementations and exercises covering `ARRAY`, `Strings`, and `Structure`.
 * **Algorithms:** Deep dives into `Sorting Algorithms` and `Recursion` challenges.
 * **Review & Application:** Dedicated folders for `#C_Revision`, general `Practice`, and final notes in `C_Last_Lecture`.
-* **Projects:** Consolidated, larger-scale multi-file programs located in the `_Project` directory.
+* **Projects:** Consolidated, larger-scale programs located in the `_Project` directory, including:
+  * **Rock, Paper, Scissors:** An interactive, loop-driven console game featuring score tracking, randomized computer choices, and input validation.
 
 ## 💻 Environment
 * **OS:** macOS (MacBook Air M1)
